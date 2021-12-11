@@ -8,5 +8,5 @@ float max(int a,float numeri[]){
             m=numeri [i];
         }
     }
-    return m;
+return m;
 }
